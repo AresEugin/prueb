@@ -550,9 +550,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/50597
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP El Laboratorio de Dexter SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP El Laboratorio de Dexter SD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/50598
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Futurama HD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Futurama HD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/50599
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Happy tree friends FHD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Happy tree friends FHD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/50601
 
@@ -649,9 +646,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/50636
 #EXTINF:-1 tvg-id="ETCTV.cl" tvg-name="24/7 VIP Animaniacs SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Animaniacs SD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/50640
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Big Mouth HD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Big Mouth HD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/50641
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Tiny Toons SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Tiny Toons SD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/50642
 
@@ -747,9 +741,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/35525
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Show De Looney Tunes HD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Show De Looney Tunes HD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/35526
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Duck Dodgers HD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Duck Dodgers HD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/35527
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon ball Super HD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dragon ball Super HD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/35528
@@ -994,14 +985,8 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/58088
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Amazon Kids (Test) FHD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Amazon Kids (Test) FHD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/58090
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Happy Halloween Kids HD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Happy Halloween Kids HD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/58091
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Novasur HD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Novasur HD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/58092
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Teen Titans GO FHD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Teen Titans GO FHD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/58095
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Mickey Mouse" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Mickey Mouse
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/58100
@@ -1041,9 +1026,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/58121
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Mr.Bean SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Mr.Bean SD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/58123
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP TWD Channel FHD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP TWD Channel FHD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/58125
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Buenazo TV FHD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Buenazo TV FHD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/58126
@@ -1102,9 +1084,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/58298
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Caballeros del Zodiaco SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Caballeros del Zodiaco SD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/58301
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Cuentos De La Calle Broca SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Cuentos De La Calle Broca SD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/58303
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Locos Addams SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Locos Addams SD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/58306
 
@@ -1158,9 +1137,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/58186
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Espíritu de lucha SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Espíritu de lucha SD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/58182
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Elfen Lied HD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Elfen Lied HD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/58181
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El show de Scooby Doo y ScrappyDoo SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El show de Scooby Doo y ScrappyDoo SD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/58179
@@ -1366,29 +1342,17 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34556
 #EXTINF:-1 tvg-id="" tvg-name="PPV USA: Cinema 10" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="PPV Cine",PPV USA: Cinema 10
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34557
 
-#EXTINF:-1 tvg-id="" tvg-name="PPV USA: Cinema 11" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="PPV Cine",PPV USA: Cinema 11
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34558
-
-#EXTINF:-1 tvg-id="" tvg-name="PPV USA: Cinema 12" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="PPV Cine",PPV USA: Cinema 12
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34559
-
 #EXTINF:-1 tvg-id="" tvg-name="PPV USA: Cinema 14" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="PPV Cine",PPV USA: Cinema 14
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34561
 
 #EXTINF:-1 tvg-id="" tvg-name="PPV USA: Cinema 15" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="PPV Cine",PPV USA: Cinema 15
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34562
 
-#EXTINF:-1 tvg-id="" tvg-name="PPV USA: Cinema 16" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="PPV Cine",PPV USA: Cinema 16
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34563
-
 #EXTINF:-1 tvg-id="" tvg-name="PPV USA: Cinema 17" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="PPV Cine",PPV USA: Cinema 17
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34564
 
 #EXTINF:-1 tvg-id="" tvg-name="PPV USA: Cinema 19" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="PPV Cine",PPV USA: Cinema 19
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34566
-
-#EXTINF:-1 tvg-id="" tvg-name="PPV USA: Cinema 23" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="PPV Cine",PPV USA: Cinema 23
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34570
 
 #EXTINF:-1 tvg-id="" tvg-name="PPV USA: Cinema 25" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="PPV Cine",PPV USA: Cinema 25
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34572
@@ -1398,9 +1362,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34574
 
 #EXTINF:-1 tvg-id="" tvg-name="PPV USA: Cinema 28" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="PPV Cine",PPV USA: Cinema 28
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34575
-
-#EXTINF:-1 tvg-id="" tvg-name="PPV USA: Cinema 30" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="PPV Cine",PPV USA: Cinema 30
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34577
 
 #EXTINF:-1 tvg-id="" tvg-name="PPV USA: Cinema 31" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="PPV Cine",PPV USA: Cinema 31
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34578
@@ -1413,12 +1374,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34580
 
 #EXTINF:-1 tvg-id="" tvg-name="PPV USA: Cinema 35" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="PPV Cine",PPV USA: Cinema 35
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34582
-
-#EXTINF:-1 tvg-id="" tvg-name="PPV USA: Cinema 36" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="PPV Cine",PPV USA: Cinema 36
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34583
-
-#EXTINF:-1 tvg-id="" tvg-name="PPV USA: Cinema 37" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="PPV Cine",PPV USA: Cinema 37
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34584
 
 #EXTINF:-1 tvg-id="" tvg-name="PPV USA: Cinema 39" tvg-logo="http://img.tvcl.xyz/ppvcine/ppvcinemausa.png" group-title="PPV Cine",PPV USA: Cinema 39
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34586
@@ -1440,9 +1395,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34597
 
 #EXTINF:-1 tvg-id="" tvg-name="PPV USA: Cinemax East FHD" tvg-logo="http://img.tvcl.xyz/ppvcine/cinemax.png" group-title="PPV Cine",PPV USA: Cinemax East FHD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34603
-
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports HD (ARG)" tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="Deportes",Directv Sports HD (ARG)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/123872
 
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports FHD (CL)" tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="Deportes",Directv Sports FHD (CL)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/121857
@@ -1681,15 +1633,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34695
 #EXTINF:-1 tvg-id="Canal Golf Channel" tvg-name="Golf Channel FHD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/golf.png" group-title="Deportes",Golf Channel FHD (MX)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34696
 
-#EXTINF:-1 tvg-id="Canal Adrenalina Sports Network" tvg-name="Adrenalina Sport Network FHD (MX)" tvg-logo="https://img.tvcl.xyz/deportes/adrenalina.png" group-title="Deportes",Adrenalina Sport Network FHD (MX)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34699
-
-#EXTINF:-1 tvg-id="Canal TVC (México)" tvg-name="TVC Deportes SD (MX)" tvg-logo="https://img.tvcl.xyz/deportes/tvc.png" group-title="Deportes",TVC Deportes SD (MX)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34700
-
-#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Canal F1 FHD (ES)" tvg-logo="https://img.tvcl.xyz/deportes/canalf1.png" group-title="Deportes",Canal F1 FHD (ES)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34701
-
 #EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barca TV SD (ES)" tvg-logo="https://img.tvcl.xyz/deportes/barca.png" group-title="Deportes",Barca TV SD (ES)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34702
 
@@ -1734,9 +1677,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34718
 
 #EXTINF:-1 tvg-id="" tvg-name="b31N Sports 2 HQ (AR)" tvg-logo="http://img.tvcl.xyz/deportes/bein.png" group-title="Deportes",b31N Sports 2 HQ (AR)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34719
-
-#EXTINF:-1 tvg-id="" tvg-name="b31N Sports 3 HQ (AR)" tvg-logo="http://img.tvcl.xyz/deportes/bein.png" group-title="Deportes",b31N Sports 3 HQ (AR)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34720
 
 #EXTINF:-1 tvg-id="" tvg-name="b31N Sports 5 HQ (AR)" tvg-logo="http://img.tvcl.xyz/deportes/bein.png" group-title="Deportes",b31N Sports 5 HQ (AR)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34722
@@ -1788,12 +1728,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/34744
 
 #EXTINF:-1 tvg-id="AR - DeporTV" tvg-name="DeporTV FHD (ARG)" tvg-logo="http://hidra.live:80/images/706bde645b1385e141c934c6cfe3c429.png" group-title="Deportes",DeporTV FHD (ARG)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/123873
-
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2 HD (CL)" tvg-logo="http://hidra.live:80/images/706bde645b1385e141c934c6cfe3c429.png" group-title="Deportes",Directv Sports 2 HD (CL)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304531
-
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports + SD (CL)" tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="Deportes",Directv Sports + SD (CL)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304532
 
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports Premium (MX VIP)" tvg-logo="https://img.tvcl.xyz/deportes/foxsports.png" group-title="Deportes",Fox Sports Premium (MX VIP)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304554
@@ -1914,9 +1848,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312866
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 4 SD (CENTRO)" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="Deportes",ESPN 4 SD (CENTRO)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312867
-
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports SD (SUR)" tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="Deportes",Directv Sports SD (SUR)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312880
 
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports FHD (ECU)" tvg-logo="https://img.tvcl.xyz/deportes/directvsports.png" group-title="Deportes",Directv Sports FHD (ECU)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312882
@@ -2044,9 +1975,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312754
 #EXTINF:-1 tvg-id="" tvg-name="Baby TV SD (LAT)" tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/baby_latinoamerica.png" group-title="Infantiles",Baby TV SD (LAT)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312755
 
-#EXTINF:-1 tvg-id="" tvg-name="Nick Music SD (LAT)" tvg-logo="http://hidra.live:80/images/fe8f67eae0618e34e18b4ec0f3ab0982.png" group-title="Infantiles",Nick Music SD (LAT)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312756
-
 #EXTINF:-1 tvg-id="" tvg-name="Clan SD (LAT)" tvg-logo="http://hidra.live:80/images/f839450c31ef3e883590b5e923cb8568.png" group-title="Infantiles",Clan SD (LAT)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312757
 
@@ -2134,9 +2062,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/35115
 #EXTINF:-1 tvg-id="" tvg-name="Univision Atlanta HD (US)" tvg-logo="http://hidra.live:80/images/72133b54ada6b97de3ddfd20790cbed7.png" group-title="Internacionales",Univision Atlanta HD (US)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/35144
 
-#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Univision EAST HD (US)" tvg-logo="https://img.tvcl.xyz/internacionales/univision.png" group-title="Internacionales",Univision EAST HD (US)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/35149
-
 #EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision Houston HD (US)" tvg-logo="https://img.tvcl.xyz/internacionales/univision.png" group-title="Internacionales",Univision Houston HD (US)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/35151
 
@@ -2220,9 +2145,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312989
 
 #EXTINF:-1 tvg-id="" tvg-name="Univision (MX)" tvg-logo="https://img.tvcl.xyz/internacionales/univision.png" group-title="Internacionales",Univision (MX)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312990
-
-#EXTINF:-1 tvg-id="" tvg-name="Univision (PR)" tvg-logo="https://img.tvcl.xyz/internacionales/univision.png" group-title="Internacionales",Univision (PR)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312991
 
 #EXTINF:-1 tvg-id="" tvg-name="Univision West (US)" tvg-logo="https://img.tvcl.xyz/internacionales/univision.png" group-title="Internacionales",Univision West (US)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312992
@@ -2938,9 +2860,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312778
 #EXTINF:-1 tvg-id="" tvg-name="A3Series Int. FHD (LAT)" tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/a3s.png" group-title="Películas y Series",A3Series Int. FHD (LAT)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312779
 
-#EXTINF:-1 tvg-id="" tvg-name="A3Series Int. HD (LAT)" tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/a3s.png" group-title="Películas y Series",A3Series Int. HD (LAT)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312780
-
 #EXTINF:-1 tvg-id="" tvg-name="A3Series Int. SD (LAT)" tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/a3s.png" group-title="Películas y Series",A3Series Int. SD (LAT)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312781
 
@@ -2949,9 +2868,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312782
 
 #EXTINF:-1 tvg-id="" tvg-name="De Pelicula FHD (LAT)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/depelicula.png" group-title="Películas y Series",De Pelicula FHD (LAT)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312786
-
-#EXTINF:-1 tvg-id="" tvg-name="De Pelicula HD (LAT)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/depelicula.png" group-title="Películas y Series",De Pelicula HD (LAT)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312787
 
 #EXTINF:-1 tvg-id="" tvg-name="Europa Europa HD (LAT)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/ee.png" group-title="Películas y Series",Europa Europa HD (LAT)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312788
@@ -3199,9 +3115,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/35025
 #EXTINF:-1 tvg-id="" tvg-name="Portal Foxmix SD (CL)" tvg-logo="https://img.tvcl.xyz/musica/portalfoxmix.png" group-title="Música",Portal Foxmix SD (CL)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/35028
 
-#EXTINF:-1 tvg-id="MX - Telehit" tvg-name="Telehit SD (MX)" tvg-logo="https://img.tvcl.xyz/musica/telehit.png" group-title="Música",Telehit SD (MX)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/35030
-
 #EXTINF:-1 tvg-id="MX - Telehit" tvg-name="Telehit FHD (MX)" tvg-logo="https://img.tvcl.xyz/musica/telehit.png" group-title="Música",Telehit FHD (MX)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/35031
 
@@ -3213,9 +3126,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/35034
 
 #EXTINF:-1 tvg-id="MX - VH1" tvg-name="MTV 00S FHD (LAT)" tvg-logo="http://hidra.live:80/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="Música",MTV 00S FHD (LAT)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/35035
-
-#EXTINF:-1 tvg-id="CL - TVN" tvg-name="TVN SD (CL)" tvg-logo="https://img.tvcl.xyz/chile/tvchile.png" group-title="Chile",TVN SD (CL)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/35294
 
 #EXTINF:-1 tvg-id="CL - TVN" tvg-name="TVN HD (CL)" tvg-logo="https://img.tvcl.xyz/chile/tvchile.png" group-title="Chile",TVN HD (CL)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/35295
@@ -3394,17 +3304,11 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304304
 #EXTINF:-1 tvg-id="" tvg-name="Panamericana FHD (PE)" tvg-logo="https://img.tvcl.xyz/peru/panamericana.png" group-title="Peru",Panamericana FHD (PE)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304306
 
-#EXTINF:-1 tvg-id="" tvg-name="Peru Magico HD (PE)" tvg-logo="https://img.tvcl.xyz/peru/perumagico.png" group-title="Peru",Peru Magico HD (PE)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304308
-
 #EXTINF:-1 tvg-id="" tvg-name="TV Peru SD (PE)" tvg-logo="https://img.tvcl.xyz/peru/tvperu.png" group-title="Peru",TV Peru SD (PE)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304309
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Peru Noticias HD (PE)" tvg-logo="https://img.tvcl.xyz/peru/tvperun.png" group-title="Peru",TV Peru Noticias HD (PE)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304310
-
-#EXTINF:-1 tvg-id="" tvg-name="Willax HD (PE)" tvg-logo="https://img.tvcl.xyz/peru/willax.png" group-title="Peru",Willax HD (PE)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304311
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal N HD (PE)" tvg-logo="https://img.tvcl.xyz/peru/canaln.png" group-title="Peru",Canal N HD (PE)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304313
@@ -3448,14 +3352,8 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304358
 #EXTINF:-1 tvg-id="" tvg-name="Canal M HD  (UY)" tvg-logo="https://img.tvcl.xyz/uruguay/canalm.png" group-title="Uruguay",Canal M HD  (UY)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304364
 
-#EXTINF:-1 tvg-id="" tvg-name="VTV SD (UY)" tvg-logo="https://img.tvcl.xyz/uruguay/vtv.png" group-title="Uruguay",VTV SD (UY)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304373
-
 #EXTINF:-1 tvg-id="" tvg-name="VTV Plus HD (UY)" tvg-logo="https://img.tvcl.xyz/uruguay/vtv.png" group-title="Uruguay",VTV Plus HD (UY)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304376
-
-#EXTINF:-1 tvg-id="" tvg-name="VTV Plus. HD (UY)" tvg-logo="https://img.tvcl.xyz/uruguay/vtv.png" group-title="Uruguay",VTV Plus. HD (UY)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304377
 
 #EXTINF:-1 tvg-id="" tvg-name="Canela TV HD (EC)" tvg-logo="https://img.tvcl.xyz/ecuador/canelatv.png" group-title="Ecuador",Canela TV HD (EC)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304380
@@ -3556,9 +3454,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304493
 #EXTINF:-1 tvg-id="" tvg-name="TeleSistema SD (CR)" tvg-logo="" group-title="Costa Rica",TeleSistema SD (CR)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304494
 
-#EXTINF:-1 tvg-id="" tvg-name="Teleuno HD (CR)" tvg-logo="https://img.tvcl.xyz/costarica/teleuno.png" group-title="Costa Rica",Teleuno HD (CR)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304496
-
 #EXTINF:-1 tvg-id="" tvg-name="TVN Canal 14 HD (CR)" tvg-logo="https://img.tvcl.xyz/costarica/canal14.png" group-title="Costa Rica",TVN Canal 14 HD (CR)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304502
 
@@ -3607,9 +3502,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304237
 #EXTINF:-1 tvg-id="" tvg-name="Caracol FHD (CO)" tvg-logo="http://hidra.live:80/images/04de71dfb76e3e2656a1fba5ce7630d0.png" group-title="Colombia",Caracol FHD (CO)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304243
 
-#EXTINF:-1 tvg-id="" tvg-name="Caracol FHD  (CO)" tvg-logo="https://img.tvcl.xyz/colombia/caracol.png" group-title="Colombia",Caracol FHD  (CO)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304244
-
 #EXTINF:-1 tvg-id="" tvg-name="Caracol HD (CO)" tvg-logo="https://img.tvcl.xyz/colombia/caracol.png" group-title="Colombia",Caracol HD (CO)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304245
 
@@ -3637,17 +3529,8 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304258
 #EXTINF:-1 tvg-id="" tvg-name="RCN HD (CO)" tvg-logo="https://img.tvcl.xyz/colombia/rcn.png" group-title="Colombia",RCN HD (CO)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304259
 
-#EXTINF:-1 tvg-id="" tvg-name="RCN HD2 (CO)" tvg-logo="https://img.tvcl.xyz/colombia/rcn.png" group-title="Colombia",RCN HD2 (CO)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304260
-
-#EXTINF:-1 tvg-id="" tvg-name="RCN SD (CO)" tvg-logo="https://img.tvcl.xyz/colombia/rcn.png" group-title="Colombia",RCN SD (CO)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304261
-
 #EXTINF:-1 tvg-id="" tvg-name="RCN Telenovelas SD (CO)" tvg-logo="https://img.tvcl.xyz/colombia/rcn.png" group-title="Colombia",RCN Telenovelas SD (CO)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304262
-
-#EXTINF:-1 tvg-id="" tvg-name="Señal Colombia SD (CO)" tvg-logo="https://img.tvcl.xyz/colombia/senalcolombia.png" group-title="Colombia",Señal Colombia SD (CO)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304263
 
 #EXTINF:-1 tvg-id="" tvg-name="Señal Colombia FHD (CO)" tvg-logo="https://img.tvcl.xyz/colombia/senalcolombia.png" group-title="Colombia",Señal Colombia FHD (CO)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304264
@@ -3691,17 +3574,11 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304280
 #EXTINF:-1 tvg-id="" tvg-name="Telepacifico FHD (CO)" tvg-logo="https://img.tvcl.xyz/colombia/telepacifico.png" group-title="Colombia",Telepacifico FHD (CO)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/304281
 
-#EXTINF:-1 tvg-id="Telesur.es" tvg-name="Telesur SD (VE)" tvg-logo="https://img.tvcl.xyz/venezuela/telesur.png" group-title="Venezuela",Telesur SD (VE)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/43554
-
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Televen SD (VE)" tvg-logo="https://img.tvcl.xyz/venezuela/televen.png" group-title="Venezuela",Televen SD (VE)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/43561
 
 #EXTINF:-1 tvg-id="ValuTV.us" tvg-name="Vale TV HD (VE)" tvg-logo="https://img.tvcl.xyz/venezuela/valetv.png" group-title="Venezuela",Vale TV HD (VE)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/43562
-
-#EXTINF:-1 tvg-id="" tvg-name="Venevision HD (VE)" tvg-logo="https://img.tvcl.xyz/venezuela/venevision.png" group-title="Venezuela",Venevision HD (VE)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/43563
 
 #EXTINF:-1 tvg-id="AZClic.mx" tvg-name="AZ Clic FHD (MX)" tvg-logo="https://img.tvcl.xyz/mexico/azclic.png" group-title="Mexico",AZ Clic FHD (MX)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/43599
@@ -3736,17 +3613,11 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/43612
 #EXTINF:-1 tvg-id="Azteca.us" tvg-name="Azteca 1 SD (MX)" tvg-logo="https://img.tvcl.xyz/mexico/aztecauno.png" group-title="Mexico",Azteca 1 SD (MX)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/43613
 
-#EXTINF:-1 tvg-id="AZCinema.mx" tvg-name="Azteca Cinema SD (MX)" tvg-logo="http://hidra.live:80/images/fdff3932528d5fd5df3b1bc32b40732f.png" group-title="Mexico",Azteca Cinema SD (MX)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/43614
-
 #EXTINF:-1 tvg-id="MX - Az Corazón" tvg-name="Azteca Corazon SD (MX)" tvg-logo="http://hidra.live:80/images/d132c49bf22dca4a5ab9a502ecab8ab1.png" group-title="Mexico",Azteca Corazon SD (MX)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/43615
 
 #EXTINF:-1 tvg-id="Azteca.us" tvg-name="Azteca Click SD (MX)" tvg-logo="http://hidra.live:80/images/b60e0292bc9244449c6358c7c44d8db7.png" group-title="Mexico",Azteca Click SD (MX)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/43617
-
-#EXTINF:-1 tvg-id="AplausoTV.us" tvg-name="A Plus SD (MX)" tvg-logo="https://img.tvcl.xyz/mexico/aplus.png" group-title="Mexico",A Plus SD (MX)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/43618
 
 #EXTINF:-1 tvg-id="MX - adn40" tvg-name="ADN40 FHD (MX)" tvg-logo="https://img.tvcl.xyz/mexico/adn40.png" group-title="Mexico",ADN40 FHD (MX)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/43619
@@ -3759,9 +3630,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/43625
 
 #EXTINF:-1 tvg-id="MX - Canal 5" tvg-name="Canal 5 SD (MX)" tvg-logo="https://img.tvcl.xyz/mexico/canal5.png" group-title="Mexico",Canal 5 SD (MX)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/43626
-
-#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="Teleritmo SD (MX)" tvg-logo="https://img.tvcl.xyz/mexico/teleritmo.png" group-title="Mexico",Teleritmo SD (MX)
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/43630
 
 #EXTINF:-1 tvg-id="Mexiquense.mx" tvg-name="Mexiquice SD (MX)" tvg-logo="http://hidra.live:80/images/1f3e4cdab3c866f0c51e254ceac26a1c.png" group-title="Mexico",Mexiquice SD (MX)
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/43631
@@ -3807,9 +3675,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303679
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: Telecinco HD 2Mb" tvg-logo="" group-title="España",ES: Telecinco HD 2Mb
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303680
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: Telecinco FHD" tvg-logo="" group-title="España",ES: Telecinco FHD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303681
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: La Sexta SD" tvg-logo="" group-title="España",ES: La Sexta SD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303682
@@ -3877,26 +3742,11 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303708
 #EXTINF:-1 tvg-id="" tvg-name="ES: 8 TV SD" tvg-logo="" group-title="España",ES: 8 TV SD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303709
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: 8 TV FHD" tvg-logo="" group-title="España",ES: 8 TV FHD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303710
-
 #EXTINF:-1 tvg-id="" tvg-name="ES: IB3 Global SD" tvg-logo="" group-title="España",ES: IB3 Global SD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303713
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: Fibracat Tv FHD" tvg-logo="" group-title="España",ES: Fibracat Tv FHD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303714
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: 3/24 SD" tvg-logo="" group-title="España",ES: 3/24 SD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303716
-
 #EXTINF:-1 tvg-id="" tvg-name="ES: Galicia TV HD" tvg-logo="" group-title="España",ES: Galicia TV HD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303723
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: Sal TV Cadiz HD" tvg-logo="" group-title="España",ES: Sal TV Cadiz HD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303731
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: Onda Cadiz Tv SD" tvg-logo="" group-title="España",ES: Onda Cadiz Tv SD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303732
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: Canal Parlamento SD" tvg-logo="" group-title="España",ES: Canal Parlamento SD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303733
@@ -3933,9 +3783,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303758
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: ES: M.Liga Campeones HD 2Mb" tvg-logo="" group-title="España",ES: ES: M.Liga Campeones HD 2Mb
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303759
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. LCampeones FHD" tvg-logo="" group-title="España",ES: M. LCampeones FHD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303760
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: M.Liga de Campeones FHD 2Mb" tvg-logo="" group-title="España",ES: M.Liga de Campeones FHD 2Mb
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303761
@@ -4057,9 +3904,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303818
 #EXTINF:-1 tvg-id="" tvg-name="ES: M.Deportes FHD 2Mb" tvg-logo="" group-title="España",ES: M.Deportes FHD 2Mb
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303819
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. Deportes FHD" tvg-logo="" group-title="España",ES: M. Deportes FHD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303820
-
 #EXTINF:-1 tvg-id="" tvg-name="ES: M. Deportes 2 FHD" tvg-logo="" group-title="España",ES: M. Deportes 2 FHD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303823
 
@@ -4108,9 +3952,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303842
 #EXTINF:-1 tvg-id="" tvg-name="ES: Tennis Channel HD" tvg-logo="" group-title="España",ES: Tennis Channel HD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303844
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: Mlb Network HD" tvg-logo="" group-title="España",ES: Mlb Network HD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303847
-
 #EXTINF:-1 tvg-id="" tvg-name="ES: Ufc Fight Pass FHD" tvg-logo="" group-title="España",ES: Ufc Fight Pass FHD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303850
 
@@ -4119,9 +3960,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303851
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: Fubo Sport Network HD" tvg-logo="" group-title="España",ES: Fubo Sport Network HD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303852
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: NBC Sport Network FHD" tvg-logo="" group-title="España",ES: NBC Sport Network FHD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303854
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: Fite Tv Boxing HD" tvg-logo="" group-title="España",ES: Fite Tv Boxing HD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303857
@@ -4186,9 +4024,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303910
 #EXTINF:-1 tvg-id="" tvg-name="ES: Axn White HD 2Mb" tvg-logo="" group-title="España",ES: Axn White HD 2Mb
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303911
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: Axn White FHD" tvg-logo="" group-title="España",ES: Axn White FHD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303912
-
 #EXTINF:-1 tvg-id="" tvg-name="ES: Amc HD" tvg-logo="" group-title="España",ES: Amc HD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303913
 
@@ -4246,23 +4081,14 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303931
 #EXTINF:-1 tvg-id="" tvg-name="ES: Nick Jr SD" tvg-logo="" group-title="España",ES: Nick Jr SD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303933
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: Disney JR SD" tvg-logo="" group-title="España",ES: Disney JR SD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303934
-
 #EXTINF:-1 tvg-id="" tvg-name="ES: Disney CH. FHD" tvg-logo="" group-title="España",ES: Disney CH. FHD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303936
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: Clan Tve SD" tvg-logo="" group-title="España",ES: Clan Tve SD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303938
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Panda SD" tvg-logo="" group-title="España",ES: Canal Panda SD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303940
-
 #EXTINF:-1 tvg-id="" tvg-name="ES: Boing SD" tvg-logo="" group-title="España",ES: Boing SD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303942
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: Boing HD" tvg-logo="" group-title="España",ES: Boing HD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303943
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: Baby TV SD" tvg-logo="" group-title="España",ES: Baby TV SD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303944
@@ -4288,9 +4114,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303951
 #EXTINF:-1 tvg-id="" tvg-name="ES: Canal Cocina HD" tvg-logo="" group-title="España",ES: Canal Cocina HD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303952
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: Canal Cocina HD" tvg-logo="" group-title="España",ES: Canal Cocina HD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303953
-
 #EXTINF:-1 tvg-id="" tvg-name="ES: Blaze SD" tvg-logo="" group-title="España",ES: Blaze SD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303955
 
@@ -4305,12 +4128,6 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303961
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: Iberalia Original FHD" tvg-logo="" group-title="España",ES: Iberalia Original FHD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303962
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA FHD" tvg-logo="" group-title="España",ES: IBERALIA 100% CAZA FHD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303963
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% PESCA FHD" tvg-logo="" group-title="España",ES: IBERALIA 100% PESCA FHD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303964
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: Torole HD" tvg-logo="" group-title="España",ES: Torole HD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303966
@@ -4339,17 +4156,11 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303975
 #EXTINF:-1 tvg-id="" tvg-name="ES: Escapa TV FHD" tvg-logo="" group-title="España",ES: Escapa TV FHD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303976
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: Nautical Channel HD" tvg-logo="" group-title="España",ES: Nautical Channel HD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303978
-
 #EXTINF:-1 tvg-id="" tvg-name="ES: DBIKE HD" tvg-logo="" group-title="España",ES: DBIKE HD
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303981
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: Nat Geo HD 2Mb" tvg-logo="" group-title="España",ES: Nat Geo HD 2Mb
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303984
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: Nat Geographic FHD" tvg-logo="" group-title="España",ES: Nat Geographic FHD
-http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303985
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: Nat Geo Wild HD 2Mb" tvg-logo="" group-title="España",ES: Nat Geo Wild HD 2Mb
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/303987
@@ -4467,1414 +4278,3 @@ http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312725
 
 #EXTINF:-1 tvg-id="" tvg-name="Gol TV Spanish" tvg-logo="https://img.tvcl.xyz/usa/goltv.png" group-title="USA",Gol TV Spanish
 http://hidra.live:80/gdttgzvd/V6tw0ws1Z0/312749
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,MyC - ANIMAL PLANET
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3247
-#EXTINF:-1,MyC - RT ESPAÑOL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2064
-#EXTINF:-1,MyC - NATGEO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4126
-#EXTINF:-1,MyC - NATGEO MUNDO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3774
-#EXTINF:-1,MyC - DISCOVERY ID
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4123
-#EXTINF:-1,MyC - HISTORY
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3234
-#EXTINF:-1,MyC- DISCOVERY EN ESPAÑOL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/56304
-#EXTINF:-1,MyC - DISCOVERY THEATER
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4119
-#EXTINF:-1,MyC - DISCOVERY CHANNEL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3251
-#EXTINF:-1,MyC - DISCOVERY WORLD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3081
-#EXTINF:-1,MyC - DISCOVERY  HOME & HEALTH
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3083
-#EXTINF:-1,MyC - DISCOVERY SCIENCE
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3082
-#EXTINF:-1,MyC - DISCOVERY TLC
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3256
-#EXTINF:-1,MyC - FILM & ARTS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3966
-#EXTINF:-1,MyC - HISPAN TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/33481
-#EXTINF:-1,MyC - HGTV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3252
-#EXTINF:-1,LD - ESPN 1 SUR HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3614
-#EXTINF:-1,LD - ESPN 1 SUR SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/33469
-#EXTINF:-1,LD - ESPN 2 SUR HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/43637
-#EXTINF:-1,LD - ESPN 2 SUR SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3616
-#EXTINF:-1,LD - ESPN 3 SUR SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/43639
-#EXTINF:-1,LD - ESPN 3 SUR HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3615
-#EXTINF:-1,LD - ESPN 4 SUR HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1118360
-#EXTINF:-1,LD - ESPN 4
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18580
-#EXTINF:-1,LD - ESPN CHILE HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1080110
-#EXTINF:-1,LD - ESPN CHILE SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1080111
-#EXTINF:-1,LD - ESPN EXTRA SUR FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7940
-#EXTINF:-1,LD - ESPN EXTRA SUR HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/43638
-#EXTINF:-1,LD - ESPN DEPORTES HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3613
-#EXTINF:-1,LD - ESPN MX
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3178
-#EXTINF:-1,LD - ESPN 2 MX HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1118923
-#EXTINF:-1,LD - ESPN 2 MX
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3258
-#EXTINF:-1,LD - ESPN 3 MX
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3260
-#EXTINF:-1,LD - ESPN PLUS MX
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4120
-#EXTINF:-1,LD - DIRECTV SPORTS FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1091366
-#EXTINF:-1,LD - DIRECTV SPORTS HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7863
-#EXTINF:-1,LD - DIRECTV SPORTS SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/33512
-#EXTINF:-1,LD - DIRECTV SPORTS 2 FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1091367
-#EXTINF:-1,LD - DIRECTV SPORTS 2 HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/32882
-#EXTINF:-1,LD - DIRECTV SPORTS 2 SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/32881
-#EXTINF:-1,LD - DIRECTV SPORTS PLUS FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1091368
-#EXTINF:-1,LD - DIRECTV SPORTS PLUS HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/27879
-#EXTINF:-1,LD - DIRECTV SPORTS PLUS SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8520
-#EXTINF:-1,LD - FOX SPORTS 1 HD (CHILE)
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3612
-#EXTINF:-1,LD - FOX SPORTS 1 SD (CHILE)
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1095232
-#EXTINF:-1,LD - FOX SPORTS 2 SUR HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/16139
-#EXTINF:-1,LD - FOX SPORTS 2 SUR SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/42456
-#EXTINF:-1,LD - FOX SPORTS 3 SUR HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/33475
-#EXTINF:-1,LD - FOX SPORTS 3 SUR SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/43640
-#EXTINF:-1,LD - FOX SPORTS 3 MX
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4008
-#EXTINF:-1,LD - FOX SPORTS MX
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3267
-#EXTINF:-1,LD - FOX SPORTS 2 MX
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3268
-#EXTINF:-1,LD - FOX DEPORTES USA HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3753
-#EXTINF:-1,LD - UNIVISION TUDN USA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3751
-#EXTINF:-1,LD - TYC SPORTS HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3759
-#EXTINF:-1,LD - TYC SPORTS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8247
-#EXTINF:-1,LD - GOL TV FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1092639
-#EXTINF:-1,LD - GOL TV HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3755
-#EXTINF:-1,LD - GOL TV SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1092653
-#EXTINF:-1,LD - TIGO SPORTS HD (PARAGUAY)
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/29832
-#EXTINF:-1,LD - UFC LIVE HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53372
-#EXTINF:-1,LD - CLARO SPORTS HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/12011
-#EXTINF:-1,LD - UFC  NETWORK FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4082
-#EXTINF:-1,LD - UFC FIGHT LATINOAMERICA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3421
-#EXTINF:-1,LD - GOLF LATIN AMERICA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/33363
-#EXTINF:-1,LD - TVC DEPORTES
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4139
-#EXTINF:-1,LD - AYM SPORTS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3089
-#EXTINF:-1,CINE - HBO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3199
-#EXTINF:-1,CINE - HBO 2
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3198
-#EXTINF:-1,CINE - HBO PLUS +
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4003
-#EXTINF:-1,CINE - HBO FAMILY
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4017
-#EXTINF:-1,CINE - HBO SIGNATURE
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3197
-#EXTINF:-1,CINE - HBO XTREME
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/44341
-#EXTINF:-1,CINE - CINEMAX
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1068350
-#EXTINF:-1,CINE - CINE LATINO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4136
-#EXTINF:-1,CINE - CLARO CINEMA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4145
-#EXTINF:-1,CINE - EUROPA EUROPA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/33359
-#EXTINF:-1,CINE - STAR CHANNEL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4121
-#EXTINF:-1,CINE - TNT
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4010
-#EXTINF:-1,CINE - PARAMOUNT CHANNEL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2952
-#EXTINF:-1,CINE - TNT SERIES
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3218
-#EXTINF:-1,CINE - AXN
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3248
-#EXTINF:-1,CINE - CINECANAL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3250
-#EXTINF:-1,CINE - DE PELICULA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2997
-#EXTINF:-1,CINE - DE PELICULA PLUS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3239
-#EXTINF:-1,CINE - UNIVERSAL CHANNEL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3068
-#EXTINF:-1,CINE - STUDIO UNIVERSAL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3229
-#EXTINF:-1,CINE - I-SAT
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3074
-#EXTINF:-1,CINE - PANICO TV HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7436
-#EXTINF:-1,CINE - DHE
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/24180
-#EXTINF:-1,CINE - MORBID TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/33364
-#EXTINF:-1,CINE - SUNDANCE TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4101
-#EXTINF:-1,CINE - SYFY
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3958
-#EXTINF:-1,CINE - TBS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4011
-#EXTINF:-1,CINE - TCM
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3065
-#EXTINF:-1,CINE - SONY
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3069
-#EXTINF:-1,CINE - FX
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3201
-#EXTINF:-1,CINE - WARNER
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3228
-#EXTINF:-1,CINE - GOLDEN
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3236
-#EXTINF:-1,CINE - GOLDEN EDGE
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3237
-#EXTINF:-1,ENT -GARAGE TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4016
-#EXTINF:-1,ENT -E! ENTERTAINMENT
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3207
-#EXTINF:-1,ENT -EL GOURMET
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3206
-#EXTINF:-1,ENT -DISCOVERY TURBO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3257
-#EXTINF:-1,ENT -COMEDY CENTRAL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3241
-#EXTINF:-1,ENT - FOOD NETWORK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4146
-#EXTINF:-1,ENT -LIFETIME
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3073
-#EXTINF:-1,ENT - HOLA TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3075
-#EXTINF:-1,ENT -GLITZ
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3238
-#EXTINF:-1,ENT -WOBI
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4134
-#EXTINF:-1,ENT -TRU TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3231
-#EXTINF:-1,INF - CARTOON NETWORK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3249
-#EXTINF:-1,INF - DISCOVERY KIDS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3254
-#EXTINF:-1,INF - CARTOONITO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3085
-#EXTINF:-1,INF - DISNEY CHANNEL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4004
-#EXTINF:-1,INF - BABY TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3798
-#EXTINF:-1,INF - NICKELODEON
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3071
-#EXTINF:-1,INF - TEENNICK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4140
-#EXTINF:-1,INF - NICK JUNIOR
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4194
-#EXTINF:-1,INF - TOONCAST
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3242
-#EXTINF:-1,CINP - INDIE PLEX
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8142
-#EXTINF:-1,CINP - STARZ WESTERN HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8134
-#EXTINF:-1,CINP - MORE MAX HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8143
-#EXTINF:-1,CINP - MOVIE MAX
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8144
-#EXTINF:-1,CINP - MOVIEPLEX
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8145
-#EXTINF:-1,CINP - OUTERMAX HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8146
-#EXTINF:-1,CINP - RETROPLEX HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8147
-#EXTINF:-1,CINP - SHOTIME WEST HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8141
-#EXTINF:-1,CINP - SHOW TIME HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8138
-#EXTINF:-1,CINP - SHOWTIME BEYOND HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8139
-#EXTINF:-1,CINP - SHOWTIME EAST
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8140
-#EXTINF:-1,CINP - STARZ CINEMA HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8136
-#EXTINF:-1,CINP - STARZ COMEDY HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8135
-#EXTINF:-1,CINP - STARZ ENCORE ACTION HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8128
-#EXTINF:-1,CINP - STARZ ENCORE BLACK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8127
-#EXTINF:-1,CINP - STARZ IN BLACK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8126
-#EXTINF:-1,CINP - STARZ IN BLACK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8137
-#EXTINF:-1,CINP - STARZ KIDS & FAMILY
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8133
-#EXTINF:-1,FHD - A&E HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4037
-#EXTINF:-1,FHD - ANIMAL PLANET
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4067
-#EXTINF:-1,FHD - CINEMAX
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4110
-#EXTINF:-1,FHD - ANTENA 3 INT.
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3139
-#EXTINF:-1,FHD - HBO FAMILY
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3211
-#EXTINF:-1,FHD - DISCOVERY ID
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3600
-#EXTINF:-1,FHD - AXN HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4038
-#EXTINF:-1,FHD - BABY TV HQ
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4116
-#EXTINF:-1,FHD - WOBI TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4107
-#EXTINF:-1,FHD - BABY FIRST
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4088
-#EXTINF:-1,FHD - CARTOON NETWORK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4063
-#EXTINF:-1,FHD-BLOOMBERG
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1071996
-#EXTINF:-1,FHD - CARTOONITO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4061
-#EXTINF:-1,FHD - CINECANAL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4068
-#EXTINF:-1,FHD - COMEDY CENTRAL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4039
-#EXTINF:-1,FHD - DISCOVERY CHANNEL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4069
-#EXTINF:-1,FHD - DISCOVERY HOME & HEALTH
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4070
-#EXTINF:-1,FHD - DISCOVERY KIDS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4072
-#EXTINF:-1,FHD - DISCOVERY THEATER
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4073
-#EXTINF:-1,FHD - DISCOVERY TURBO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4075
-#EXTINF:-1,FHD - DISCOVERY WORLD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4076
-#EXTINF:-1,FHD - DISNEY JR
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4111
-#EXTINF:-1,FHD - DISTRITO COMEDIA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4040
-#EXTINF:-1,FHD - E! ENTERTAINMENT
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4041
-#EXTINF:-1,FHD - FOOD NETWORK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4057
-#EXTINF:-1,FHD - EL GOURMET
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4042
-#EXTINF:-1,FHD - FX HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4044
-#EXTINF:-1,FHD - GLITZ
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4045
-#EXTINF:-1,FHD - GOLDEN PREMIERE
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4091
-#EXTINF:-1,FHD - HBO 2
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4095
-#EXTINF:-1,FHD - HBO HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4112
-#EXTINF:-1,FHD - HISTORY
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4093
-#EXTINF:-1,FHD - HBO PLUS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4109
-#EXTINF:-1,FHD - HOLA TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4046
-#EXTINF:-1,FHD - I - SAT
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4098
-#EXTINF:-1,FHD - MAS CHIC
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4047
-#EXTINF:-1,FHD - HBO XTREME
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8226
-#EXTINF:-1,FHD - HBO POP
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8246
-#EXTINF:-1,FHD - MTV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4083
-#EXTINF:-1,FHD - MTV LIVE
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4096
-#EXTINF:-1,FHD - NAT GEO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4097
-#EXTINF:-1,FHD - NICKELODEON
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4058
-#EXTINF:-1,FHD - PARAMOUNT
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4065
-#EXTINF:-1,FHD - SONY
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4048
-#EXTINF:-1,FHD - SPACE FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4099
-#EXTINF:-1,FHD - STUDIO UNIVERSAL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4100
-#EXTINF:-1,FHD - SYFY
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4049
-#EXTINF:-1,FHD - TCM HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4106
-#EXTINF:-1,FHD - TLC
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4074
-#EXTINF:-1,FHD - TNT FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4103
-#EXTINF:-1,FHD - TNT SERIES
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4050
-#EXTINF:-1,FHD - TOONCAST
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4051
-#EXTINF:-1,FHD - UNIVERSAL CHANNEL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4054
-#EXTINF:-1,FHD - WARNER
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4053
-#EXTINF:-1,TELEMUNDO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8209
-#EXTINF:-1,URU - CANAL 10 HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18567
-#EXTINF:-1,URU - TELE12 FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3620
-#EXTINF:-1,URU - TELE12 HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18731
-#EXTINF:-1,URU - TELE12 SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18578
-#EXTINF:-1,URU - DIRECTV SPORTS URUGUAY
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2041
-#EXTINF:-1,URU - LA RED
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/35428
-#EXTINF:-1,URU  - A+V
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51359
-#EXTINF:-1,URU - DEL SOL TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/34605
-#EXTINF:-1,URU - PPV URUGUAY 1
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3226
-#EXTINF:-1,URU - PPV URUGUAY 2
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7943
-#EXTINF:-1,URU - PPV URUGUAY 3
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/43600
-#EXTINF:-1,MEX - EL CANAL DE LAS ESTRELLAS HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4030
-#EXTINF:-1,MEX - AZTECA 7 FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4027
-#EXTINF:-1,MEX - AZTECA UNO HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4087
-#EXTINF:-1,MEX - CANAL 5 FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4028
-#EXTINF:-1,MEX - FORO TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4029
-#EXTINF:-1,MEX - UNICABLE FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4052
-#EXTINF:-1,MEX - ADN 40
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4025
-#EXTINF:-1,MEX - AFIZZIONADOS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8248
-#EXTINF:-1,MX - TUDN MX FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1105665
-#EXTINF:-1,MEX - TUDN HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3397
-#EXTINF:-1,MEX - AZ MUNDO FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4055
-#EXTINF:-1,MEX - AZ CINEMA FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4086
-#EXTINF:-1,MEX - AZ CORAZON
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4026
-#EXTINF:-1,MEX - GALA TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4031
-#EXTINF:-1,MEX - HAVOC
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/33362
-#EXTINF:-1,MEX - IMAGEN TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4149
-#EXTINF:-1,MEX - INGENIO TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/33358
-#EXTINF:-1,MEX - MULTIMEDIOS MONTERREY
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4125
-#EXTINF:-1,MEX - MULTIMEDIOS MONTERREY PLUS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4034
-#EXTINF:-1,MEX - MULTIMEDIOS MONTERREY FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4033
-#EXTINF:-1,MEX - ONCE TV FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4035
-#EXTINF:-1,MEX - TELEFORMULA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4129
-#EXTINF:-1,MEX - TELEFORMULA FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4036
-#EXTINF:-1,MEX - TL TELENOVELAS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4130
-#EXTINF:-1,MEX - TELEVISA MTY
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4066
-#EXTINF:-1,MEX - TV4
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/33367
-#EXTINF:-1,MEX - TVC
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4105
-#EXTINF:-1,MEX - TV MAS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/33365
-#EXTINF:-1,MEX - UNO MVS TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/6022
-#EXTINF:-1,MEX - ONCE TV NIÑOS Y NIÑAS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/47697
-#EXTINF:-1,MEX - AZ CINEMA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2954
-#EXTINF:-1,MEX - MEXIQUENSE
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3182
-#EXTINF:-1,MX - TV UNAM
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18574
-#EXTINF:-1,MEX - AZ MUNDO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3087
-#EXTINF:-1,MEX - PROYECTO 40 FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3185
-#EXTINF:-1,MEX - DISTRITO COMEDIA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3209
-#EXTINF:-1,MEX - AZTECA 7
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3215
-#EXTINF:-1,MEX - AZTECA UNO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3216
-#EXTINF:-1,MEX - MILENIO TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3233
-#EXTINF:-1,MX- IMAGEN TV FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1124600
-#EXTINF:-1,MEX - UNICABLE
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3230
-#EXTINF:-1,MEX - CANAL DE LAS ESTRELLAS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3243
-#EXTINF:-1,MEX - AZ CLICK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3245
-#EXTINF:-1,MEX - IMAGEN RADIO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3594
-#EXTINF:-1,MEX - CANAL 5
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3244
-#EXTINF:-1,MEX - CANAL ONCE
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3269
-#EXTINF:-1,CHILE - ESPN CHILE HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1068348
-#EXTINF:-1,CHILE - ESPN CHILE
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1117657
-#EXTINF:-1,CHILE - TNT SPORTS FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/54717
-#EXTINF:-1,CHILE - TNT SPORTS HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3586
-#EXTINF:-1,CHILE - TNT SPORTS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/16138
-#EXTINF:-1,CHILE - TNT SPORTS 2 FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1129864
-#EXTINF:-1,CHILE - TNT SPORTS 2 HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1129865
-#EXTINF:-1,CHILE - TNT SPORTS 3
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1068349
-#EXTINF:-1,CHILE - CDO PREMIUM HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3608
-#EXTINF:-1,CHILE - CDO BASICO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3607
-#EXTINF:-1,CHILE - ESTADIO TNT
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/6979
-#EXTINF:-1,CHILE - CANAL 13
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3853
-#EXTINF:-1,CHILE - 13C HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1091369
-#EXTINF:-1,CHILE - 13C
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1091370
-#EXTINF:-1,CHILE - LA RED HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51823
-#EXTINF:-1,CHILE - LA RED
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51824
-#EXTINF:-1,CHILE - NTV HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/27103
-#EXTINF:-1,CHILE - TV+ HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/30700
-#EXTINF:-1,CHILE - TELECANAL HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/44631
-#EXTINF:-1,CHILE - 24 HORAS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/23237
-#EXTINF:-1,CHILE - TELETRAK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3854
-#EXTINF:-1,CHILE - TV+
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1094403
-#EXTINF:-1,CHILE - REC TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2024
-#EXTINF:-1,CHILE - NTV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2047
-#EXTINF:-1,CHILE - CHILEVISION  HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2147
-#EXTINF:-1,CHILE - CHILEVISION
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3591
-#EXTINF:-1,CHILE - MEGA HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2148
-#EXTINF:-1,CHILE - TVN HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2151
-#EXTINF:-1,CHILE - TVN
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3592
-#EXTINF:-1,CHILE - CNN CHILE
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3749
-#EXTINF:-1,CHILE - MEGA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3343
-#EXTINF:-1,EC - EL CANAL DEL FÚTBOL FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1092640
-#EXTINF:-1,EC - EL CANAL DEL FÚTBOL HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1086208
-#EXTINF:-1,ECU - DIRECTV SPORTS FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53462
-#EXTINF:-1,ECU - DIRECTV SPORTS HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/23239
-#EXTINF:-1,ECU - DIRECTV SPORTS 2 HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53489
-#EXTINF:-1,ECU - DIRECTV SPORTS + FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53490
-#EXTINF:-1,EC - PPV ECUADOR
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1118922
-#EXTINF:-1,ECU - CNT SPORTS / GOL TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7471
-#EXTINF:-1,ECU - GOL TV FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53381
-#EXTINF:-1,ECU - GOL TV HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53491
-#EXTINF:-1,ECU - GOL TV SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/25753
-#EXTINF:-1,ECU - CANAL UNO FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8083
-#EXTINF:-1,ECU - CANAL UNO SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53452
-#EXTINF:-1,ECU - ECUADOR TV HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53453
-#EXTINF:-1,ECU - ECUAVISA FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53455
-#EXTINF:-1,ECU - ECUAVISA SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8084
-#EXTINF:-1,ECU - GAMAVISIÓN FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53456
-#EXTINF:-1,ECU - GAMAVISIÓN HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8085
-#EXTINF:-1,ECU - RTS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7534
-#EXTINF:-1,ECU - RTS SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53457
-#EXTINF:-1,ECU - TVC FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53460
-#EXTINF:-1,ECU - TC TELEVISION FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53458
-#EXTINF:-1,ECU - TC TELEVISION HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7533
-#EXTINF:-1,ECU - TELEAMAZONAS FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7532
-#EXTINF:-1,ECU - TELEAMAZONAS SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53459
-#EXTINF:-1,ECU - TELEAMAZONAS HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3428
-#EXTINF:-1,ECU - TC TELEVISION HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3429
-#EXTINF:-1,ECU - RTS HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3430
-#EXTINF:-1,ECU - OROMAR TV HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3431
-#EXTINF:-1,ECU - GAMAVISIÓN SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3432
-#EXTINF:-1,ECU - ECUAVISA HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3433
-#EXTINF:-1,ECU - ECUADOR TV SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3434
-#EXTINF:-1,ECU - CANAL UNO HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3436
-#EXTINF:-1,ARG - TNT SPORTS ᴴᴰ
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2957
-#EXTINF:-1,ARG - ESPN 1 ᴴᴰ
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1090736
-#EXTINF:-1,ARG - ESPN 1
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1090737
-#EXTINF:-1,ARG - ESPN 2 ᴴᴰ
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1089695
-#EXTINF:-1,ARG - ESPN 2
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1089694
-#EXTINF:-1,ARG - FOX SPORTS 1 ᴴᴰ
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1090738
-#EXTINF:-1,ARG - FOX SPORTS 1
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1090739
-#EXTINF:-1,ARG - FOX SPORTS 2 ᴴᴰ
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1090740
-#EXTINF:-1,ARG - FOX SPORTS 2 FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1090741
-#EXTINF:-1,ARG - TYC SPORTS ᴴᴰ
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2961
-#EXTINF:-1,ARG - TYC SPORTS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/43633
-#EXTINF:-1,ARG - AMERICA SPORTS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/49525
-#EXTINF:-1,ARG - DEPORTV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/29348
-#EXTINF:-1,ARG - TV PUBLICA ᴴᴰ
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8183
-#EXTINF:-1,ARG - TV PUBLICA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3417
-#EXTINF:-1,ARG - EL TRECE ᴴᴰ
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51070
-#EXTINF:-1,ARG - EL TRECE
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7431
-#EXTINF:-1,ARG - TELEFE ᴴᴰ
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51071
-#EXTINF:-1,ARG - TELEFE
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3439
-#EXTINF:-1,ARG - EL NUEVE ᴴᴰ
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51072
-#EXTINF:-1,ARG - EL NUEVE
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3438
-#EXTINF:-1,ARG - NET TV ᴴᴰ
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3356
-#EXTINF:-1,ARG - NET TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/23229
-#EXTINF:-1,ARG - AMERICA TV ᴴᴰ
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/27
-#EXTINF:-1,ARG - AMERICA TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2040
-#EXTINF:-1,ARG - A24 ᴴᴰ
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51073
-#EXTINF:-1,ARG - A24
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3359
-#EXTINF:-1,ARG - C5N ᴴᴰ
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3441
-#EXTINF:-1,ARG - C5N
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/17901
-#EXTINF:-1,ARG - TN
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18766
-#EXTINF:-1,ARG - CRONICA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4188
-#EXTINF:-1,ARG - CANAL 26
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3442
-#EXTINF:-1,ARG - CN23
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/23230
-#EXTINF:-1,ARG - LN+
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7976
-#EXTINF:-1,ARG - EL GARAGE TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7975
-#EXTINF:-1,ARG - CIUDAD MAGAZINE
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3787
-#EXTINF:-1,ARG - VOLVER
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7978
-#EXTINF:-1,ARG - CINE AR
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7981
-#EXTINF:-1,ARG - ENCUENTRO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7974
-#EXTINF:-1,COL - CARACOL FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3416
-#EXTINF:-1,COL - CARACOL HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3213
-#EXTINF:-1,COL - RCN FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3415
-#EXTINF:-1,COL - RCN HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4002
-#EXTINF:-1,COL- RCN SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1087192
-#EXTINF:-1,COL - ESPN COLOMBIA HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1119288
-#EXTINF:-1,COL - WIN SPORTS + FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/16724
-#EXTINF:-1,COL - WIN SPORTS + HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/54738
-#EXTINF:-1,COL - WIN SPORTS + SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/16723
-#EXTINF:-1,COL - WIN SPORTS HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3057
-#EXTINF:-1,COL - CANAL UNO FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1066863
-#EXTINF:-1,COL - NTN 24
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/41815
-#EXTINF:-1,COL - TELECARIBE HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/43625
-#EXTINF:-1,COL - TELEPACIFICO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/47693
-#EXTINF:-1,COL - TELEANTIOQUIA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2118
-#EXTINF:-1,COL - CABLE NOTICIAS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2119
-#EXTINF:-1,COL - RCN NOVELAS HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2125
-#EXTINF:-1,COL - TELECAFE
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2128
-#EXTINF:-1,COL - SEÑAL COLOMBIA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2163
-#EXTINF:-1,COL - CITYTV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1987
-#EXTINF:-1,LAT - ByN  Ñ.
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3601
-#EXTINF:-1,LAT - UNIVISION LAS VEGAS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18563
-#EXTINF:-1,LAT - UNIVISION HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3796
-#EXTINF:-1,LAT - UNIVISION NOTICIAS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18568
-#EXTINF:-1,LAT - UNIVISION DENVER
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18565
-#EXTINF:-1,LAT - UNIVISION DALLAS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18559
-#EXTINF:-1,LAT - UNIVISION LOS ANGELES
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18564
-#EXTINF:-1,LAT - UNIVISION SAN FRANCISCO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18560
-#EXTINF:-1,LAT - UNIVISION TELENOVELAS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1090591
-#EXTINF:-1,LAT- UNIVISION ATLANTA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/56303
-#EXTINF:-1,LAT - UNIVISION MIAMI
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3177
-#EXTINF:-1,LAT - UNIVISION NEW YORK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2021
-#EXTINF:-1,LAT - UNIVISION CHICAGO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/47679
-#EXTINF:-1,LAT - TELEMUNDO INTERNACIONAL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/43189
-#EXTINF:-1,LAT - TELEMUNDO PHILADELPHIA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/43289
-#EXTINF:-1,LAT - TELEMUNDO BOSTON
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3794
-#EXTINF:-1,LAT - TELEMUNDO 39 DALLAS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/30216
-#EXTINF:-1,LAT - TELEMUNDO 44 CHICAGO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/30215
-#EXTINF:-1,LAT - TELEMUNDO 47 NEW YORK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/30213
-#EXTINF:-1,LAT - TELEMUNDO DENVER
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18570
-#EXTINF:-1,LAT - TELEMUNDO 48 SAN FRANCISCO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18780
-#EXTINF:-1,LAT - TELEMUNDO 51 MIAMI
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18779
-#EXTINF:-1,LAT - TELEMUNDO 52 LOS ANGELES
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18778
-#EXTINF:-1,LAT - TELEMUNDO 60 SAN ANTONIO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18777
-#EXTINF:-1,LAT - TELEMUNDO HOUSTON
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18776
-#EXTINF:-1,LAT - TELEMUNDO LAS VEGAS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18775
-#EXTINF:-1,LAT - UNIMAS DENVER
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18572
-#EXTINF:-1,LAT - UNIMAS LOS ANGELES
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18774
-#EXTINF:-1,LAT - UNIMAS MIAMI
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18773
-#EXTINF:-1,LAT - UNIMAS NEW YORK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18772
-#EXTINF:-1,LAT - UNIMAS DALLAS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3795
-#EXTINF:-1,LAT - CNN EN ESPAÑOL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4014
-#EXTINF:-1,LAT - CNN USA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/33360
-#EXTINF:-1,LAT - ESTRELLA TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/41188
-#EXTINF:-1,LAT - GALAVISION HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3793
-#EXTINF:-1,LAT - CBS BOSTON
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/45550
-#EXTINF:-1,LAT - NBC  BOSTON
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/45551
-#EXTINF:-1,LAT - FOX BOSTON
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/45552
-#EXTINF:-1,LAT - AMERICA TEVE
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/48119
-#EXTINF:-1,LAT- TELEMUNDO TAMPA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1070040
-#EXTINF:-1,LAT - NBC UNIVERSO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3757
-#EXTINF:-1,LAT - PASIONES
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/49168
-#EXTINF:-1,LAT-USA-PASIONES(2)
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1085156
-#EXTINF:-1,LAT- TELEMUNDO ORLANDO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1118963
-#EXTINF:-1,LAT - FIGHTING SPORTS NETWORK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2962
-#EXTINF:-1,PAN - TELEMETRO CANAL 13 HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7685
-#EXTINF:-1,PAN - TELEMETRO CANAL 13 SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53495
-#EXTINF:-1,PAN - TV MAX FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/6025
-#EXTINF:-1,PAN - TV MAX SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53492
-#EXTINF:-1,PAN - TVN FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53494
-#EXTINF:-1,PAN - TVN HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53493
-#EXTINF:-1,PAN - TVN SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7446
-#EXTINF:-1,PAN - RPC SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/6024
-#EXTINF:-1,PAN - RPC HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1117145
-#EXTINF:-1,PAN - ECO TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/16719
-#EXTINF:-1,PAN - NEXT TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/5476
-#EXTINF:-1,PAN - MAS TV 23 SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/16718
-#EXTINF:-1,PAN- CABLE ONDA SPORTS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1078662
-#EXTINF:-1,PAN- CABLE ONDA SPORTS  FC
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1078663
-#EXTINF:-1,RD - ANTENA LATINA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/30079
-#EXTINF:-1,RD - CDN
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/30080
-#EXTINF:-1,RD - COLOR VISION
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8242
-#EXTINF:-1,RD - DIGITAL 15
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8243
-#EXTINF:-1,RD - TELEANTILLAS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8241
-#EXTINF:-1,RD - RNN
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8239
-#EXTINF:-1,RD - TELECENTRO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8244
-#EXTINF:-1,RD - TELEMICRO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8245
-#EXTINF:-1,RD - TELEMICRO CANAL 5
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/5471
-#EXTINF:-1,RD - TELERADIO AMERICA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/5472
-#EXTINF:-1,RD - TELESISTEMA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8240
-#EXTINF:-1,RD - TELEUNION
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/5468
-#EXTINF:-1,RD - TELEUNIVERSO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/5473
-#EXTINF:-1,RD - Television Dominicana
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/41291
-#EXTINF:-1,RD - TV Recuerdos Canal 56
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1085945
-#EXTINF:-1,ES - DAZN 2
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/34608
-#EXTINF:-1,ENT - DEL SOL TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/34603
-#EXTINF:-1,ENT - EWTN
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/34609
-#EXTINF:-1,PAR - C9N
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7437
-#EXTINF:-1,PAR - FARRA PLAY
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/23221
-#EXTINF:-1,PAR - SNT
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/23222
-#EXTINF:-1,PAR - LA TELE
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/23224
-#EXTINF:-1,PAR - NOTICIAS PY
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7428
-#EXTINF:-1,PAR - PARAGUAY TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7423
-#EXTINF:-1,PAR - SNT
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7425
-#EXTINF:-1,PAR - TVS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7429
-#EXTINF:-1,PAR - RPC
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7426
-#EXTINF:-1,PAR - SUR TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7447
-#EXTINF:-1,PAR - TELEFUTURO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7529
-#EXTINF:-1,PAR - TIGO SPORTS HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7435
-#EXTINF:-1,PAR - TIGO SPORTS + HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53029
-#EXTINF:-1,PAR - TIGO SPORTS 2
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7450
-#EXTINF:-1,PAR - UNICANAL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7434
-#EXTINF:-1,PERU - AMERICA TV HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2174
-#EXTINF:-1,PERU- LATINA FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1087195
-#EXTINF:-1,PERU - GOL PERU FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1123136
-#EXTINF:-1,PERU - GOL TV PERU
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3605
-#EXTINF:-1,PERU - MOVISTAR DEPORTES HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3606
-#EXTINF:-1,PE - WILLAX TELEVISIÓN SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1105664
-#EXTINF:-1,PERU - MOVISTAR PLUS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3398
-#EXTINF:-1,PERU - ATV PLUS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7449
-#EXTINF:-1,PERU - PERU MAGICO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8323
-#EXTINF:-1,PERU - TV PERU
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2169
-#EXTINF:-1,PR-WAPA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/43870
-#EXTINF:-1,PR- NBC
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1066864
-#EXTINF:-1,CUBA - CUBAVISION
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/9841
-#EXTINF:-1,CUBA - TELEREBELDE
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/9843
-#EXTINF:-1,GUATE- AZTECA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/28578
-#EXTINF:-1,HON - CAMPUS TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/28575
-#EXTINF:-1,HON - CANAL 5
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/28571
-#EXTINF:-1,HON - GLOBO TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/28576
-#EXTINF:-1,HON - HCH
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/28572
-#EXTINF:-1,HON - TELECEIBA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/28570
-#EXTINF:-1,HON - VTV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/28577
-#EXTINF:-1,HON - TELECANDENA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51385
-#EXTINF:-1,HON - TELESISTEMA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51386
-#EXTINF:-1,HON - UNE TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51388
-#EXTINF:-1,HON - CHTV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51389
-#EXTINF:-1,HON - TIGO SPORTS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51390
-#EXTINF:-1,HON - TSI
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/28573
-#EXTINF:-1,HON - SITV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/16720
-#EXTINF:-1,HON - TEN CANAL 10
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/28569
-#EXTINF:-1,BOL - UNITEL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/52619
-#EXTINF:-1,BOL - ATB
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/54730
-#EXTINF:-1,BOL - BOLIVIA tv
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/54731
-#EXTINF:-1,BOL - BOLIVIA TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/54732
-#EXTINF:-1,BOL - RTP
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/54734
-#EXTINF:-1,BOL - TIGO SPORTS HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/54735
-#EXTINF:-1,HON - CANAL 11
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/16721
-#EXTINF:-1,GUAT - TV AZTECA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/42016
-#EXTINF:-1,GUAT - CANAL 3
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/42017
-#EXTINF:-1,GUAT - CANAL 7
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/42019
-#EXTINF:-1,GUAT - CANAL 11
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/42020
-#EXTINF:-1,GUAT - CANAL ANTIGUA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/42021
-#EXTINF:-1,GUAT - CANAL 13
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51392
-#EXTINF:-1,GUAT - GUATEVISION
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51393
-#EXTINF:-1,SAL - WOW TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/5478
-#EXTINF:-1,SAL - CANAL 19
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51396
-#EXTINF:-1,SAL - CANAL 21
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51397
-#EXTINF:-1,SAL - CANAL 12
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51399
-#EXTINF:-1,SAL - CANAL 6
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51401
-#EXTINF:-1,SAL - VTV CANAL 35
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51403
-#EXTINF:-1,SAL - CANAL 4
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51402
-#EXTINF:-1,VEN - TVES
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18597
-#EXTINF:-1,VEN - VALE TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51409
-#EXTINF:-1,VEN - VIVE
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51410
-#EXTINF:-1,VEN - MERIDIANO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51411
-#EXTINF:-1,VEN - TELEVEN
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51413
-#EXTINF:-1,VEN - TLT
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51414
-#EXTINF:-1,VEN - PROMAR SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18599
-#EXTINF:-1,VEN - TELESUR TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2043
-#EXTINF:-1,VEN - GLOBOVISION SD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18600
-#EXTINF:-1,VEN - TVO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18598
-#EXTINF:-1,VEN - VENEVISION
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18595
-#EXTINF:-1,VEN - VENEVISION PLUS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18593
-#EXTINF:-1,VEN - VENEZOLANA DE TELEVISION
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18596
-#EXTINF:-1,ES - A3 SERIES INT.
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3961
-#EXTINF:-1,ES - A3 SERIES
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/35495
-#EXTINF:-1,ES - ANTENA 3 INT.
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4108
-#EXTINF:-1,ES - ANTENA 3
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/35494
-#EXTINF:-1,ES - CLAN
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4131
-#EXTINF:-1,ES - MOVISTAR LA LIGA FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1115758
-#EXTINF:-1,ES - ANDALUCIA TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3610
-#EXTINF:-1,ES - CALLE 13 HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/17192
-#EXTINF:-1,ES - COSMO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4177
-#EXTINF:-1,ES - LA CUATRO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/17191
-#EXTINF:-1,ES - LIGA DE CAMPEONES  FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/16717
-#EXTINF:-1,ES - DAZN 1
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/4178
-#EXTINF:-1,ES - MOVISTAR CINE Ñ
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/6026
-#EXTINF:-1,ES - MOVISTAR LA LIGA 1
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/32365
-#EXTINF:-1,ES - MOVISTAR SERIES
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/6027
-#EXTINF:-1,ES - Eurosport 1
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/41816
-#EXTINF:-1,ES - FOX HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/47695
-#EXTINF:-1,ES - FOX HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/47696
-#EXTINF:-1,ES - LA LIGA TV BAR FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51343
-#EXTINF:-1,ES - MOVISTAR  #VAMOS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51453
-#EXTINF:-1,ES - DAZN 3
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1089977
-#EXTINF:-1,ES - Eurosport  2
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/51352
-#EXTINF:-1,ES - MOVISTAR F1 FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53028
-#EXTINF:-1,ES - LA 1 FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53894
-#EXTINF:-1,ES - TV GALICIA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/54155
-#EXTINF:-1,ESP - BE MAD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/32619
-#EXTINF:-1,ESP - TVE
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/32620
-#EXTINF:-1,ESP-24 HORAS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1074082
-#EXTINF:-1,ESP-TELEMADRID
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1074083
-#EXTINF:-1,ES - TELEDEPORTE FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3173
-#EXTINF:-1,ES - REAL MADRID TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3689
-#EXTINF:-1,ES - MOVISTAR GOLF
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3709
-#EXTINF:-1,ESP - TOROS HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2061
-#EXTINF:-1,ES - BABY TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3090
-#EXTINF:-1,ES - MOVISTAR F1 HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3093
-#EXTINF:-1,ES - MOVISTAR FORMULA 1
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3094
-#EXTINF:-1,ES - TAQUILLA 1
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3097
-#EXTINF:-1,ES - COMEDY CENTRAL HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3103
-#EXTINF:-1,ES - BARÇA TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3104
-#EXTINF:-1,ES - TAQUILLA 3
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3106
-#EXTINF:-1,ES - TAQUILLA 2
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3107
-#EXTINF:-1,ES - NOVA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3108
-#EXTINF:-1,ES - ENERGY
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3109
-#EXTINF:-1,ES - BEINS SPORTS LALIGA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3118
-#EXTINF:-1,ES - #0 HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3113
-#EXTINF:-1,ES - BOING
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3119
-#EXTINF:-1,ES - CANAL COCINA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3120
-#EXTINF:-1,ES - CANAL DE CASA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3121
-#EXTINF:-1,ES - CAZA Y PESCA HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3123
-#EXTINF:-1,ES - CLAN TVE
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3124
-#EXTINF:-1,ES - DIVINITY
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3126
-#EXTINF:-1,ES - GOL TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3128
-#EXTINF:-1,ES - LA 2 HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3130
-#EXTINF:-1,ES - BAR TV HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3131
-#EXTINF:-1,ES - NEOX
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3132
-#EXTINF:-1,ES - ODISEA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3135
-#EXTINF:-1,ES - PANDA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3136
-#EXTINF:-1,ES - TNT
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3138
-#EXTINF:-1,ES - MOVISTAR  ACTION
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3142
-#EXTINF:-1,ES - MOVISTAR COMEDIA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3143
-#EXTINF:-1,ES - MOVISTAR DEPORTES
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3146
-#EXTINF:-1,ES - MOVISTAR ESTRENOS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3147
-#EXTINF:-1,ES - MOVISTAR GOLF HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3149
-#EXTINF:-1,ES - IBERALIA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3152
-#EXTINF:-1,ES - MOVISTAR TOROS TV
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3153
-#EXTINF:-1,ES - FOX HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3161
-#EXTINF:-1,ES - FOX LIFE HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3162
-#EXTINF:-1,ES - HISTORIA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3163
-#EXTINF:-1,ES - HOLLYWOOD HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3164
-#EXTINF:-1,ES - LA 1 HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3165
-#EXTINF:-1,ES - MEGA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3167
-#EXTINF:-1,ES - FDF
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3169
-#EXTINF:-1,ES - LA SEXTA FHD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3166
-#EXTINF:-1,ES - TCM HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3171
-#EXTINF:-1,ES - TELECINCO HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3172
-#EXTINF:-1,ESP - VIAJAR HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3174
-#EXTINF:-1,ES - MOVISTAR DEPORTES 2 HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1090600
-#EXTINF:-1,US.SP - ESPN U
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/34602
-#EXTINF:-1,US.SP - FOX SPORTS 1 HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/17418
-#EXTINF:-1,US.SP - GAME SHOW NETWORK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/17419
-#EXTINF:-1,US.SP - PAC 12 ARIZONA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3799
-#EXTINF:-1,US.SP - TBS east
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/17891
-#EXTINF:-1,US.SP - TENNIS CHANNEL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3791
-#EXTINF:-1,US.SP - NBC GOLF CHANNEL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/17602
-#EXTINF:-1,US.SP - TVG NETWORK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/36759
-#EXTINF:-1,US.SP - NBC SPORTS NETWORK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53292
-#EXTINF:-1,US.SP - UFC FIGHT PASS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53373
-#EXTINF:-1,US.SP - UFC TV HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53374
-#EXTINF:-1,US.SP - FOX SPORTS OHIO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53621
-#EXTINF:-1,US.SP - NBC SN
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/53905
-#EXTINF:-1,US.SP - FUBO SPORTS NETWORK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/54579
-#EXTINF:-1,US.SP - CW NETWORK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1069953
-#EXTINF:-1,US SP - MSG HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1117138
-#EXTINF:-1,US.SP - MSG 2 HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1117139
-#EXTINF:-1,US.SP - MSG+ HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1117140
-#EXTINF:-1,US.SP - FOX SPORTS SUN
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1118207
-#EXTINF:-1,US.SP - FOX SPORTS 2
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2044
-#EXTINF:-1,US.SP - FOX SPORTS 1
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/2048
-#EXTINF:-1,US.SP - WWE HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3426
-#EXTINF:-1,US.SP - FIGHT NETWORK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3378
-#EXTINF:-1,US.SP - NFL NETWORK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3376
-#EXTINF:-1,US.SP - PAC 12 NETWORK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3375
-#EXTINF:-1,US.SP - PAC 12 OREGON
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3374
-#EXTINF:-1,US.SP - PAC 12 WASHINGTON
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3373
-#EXTINF:-1,US.SP - ESPN 2
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3372
-#EXTINF:-1,US.SP - ESPN
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3371
-#EXTINF:-1,US.SP - PAC 12 MOUNTAIN
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3369
-#EXTINF:-1,US.SP - PAC 12 BAY AREA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3368
-#EXTINF:-1,US.SP - PAC 12 LOS ANGELES
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3364
-#EXTINF:-1,US.SP - TSN SPORT 2 HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3362
-#EXTINF:-1,US.SP - TSN SPORT 4 HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3360
-#EXTINF:-1,US.SP - TSN SPORT 1 HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3363
-#EXTINF:-1,US.SP - ELEVEN SPORTS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3758
-#EXTINF:-1,US.SP - GOL TV ENGLISH
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3756
-#EXTINF:-1,US.SP - FOX SOCCER PLUS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3754
-#EXTINF:-1,US.SP - NBC GOLF
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3752
-#EXTINF:-1,US.SP - FOX SPORTS SUN
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3707
-#EXTINF:-1,US.SP - FISHING NETWORK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3691
-#EXTINF:-1,US.SP - NBC SPORTS
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1085950
-#EXTINF:-1,US.SP - AT&T SportsNet Pittsburgh
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1085951
-#EXTINF:-1,US.SP - NFL RED ZONE
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1086441
-#EXTINF:-1,US.SP - NFL CHANNEL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1086442
-#EXTINF:-1,US.SP - YES NETWORK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/1089615
-#EXTINF:-1,US.SP - FIGHT CHANNEL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3380
-#EXTINF:-1,US.SP - BYN SPORTS USA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/29341
-#EXTINF:-1,US.SP - BTN
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3750
-#EXTINF:-1,US.SP - NFL NETWORK
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/3695
-#EXTINF:-1,PPV - CINEMA 01 FHD (ES)
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7964
-#EXTINF:-1,PPV - CINE INFANTIL 03
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/29415
-#EXTINF:-1,PPV - CINEMA 05 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8005
-#EXTINF:-1,PPV - CINEMA 06 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8004
-#EXTINF:-1,PPV - CINEMA 07 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8003
-#EXTINF:-1,PPV - CINEMA 08 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8002
-#EXTINF:-1,PPV - CINEMA 09 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8001
-#EXTINF:-1,PPV - CINEMA 10 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/8000
-#EXTINF:-1,PPV - CINEMA 11 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7999
-#EXTINF:-1,PPV - CINEMA 12 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7998
-#EXTINF:-1,PPV - CINEMA 13 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7997
-#EXTINF:-1,PPV - CINEMA 14 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7996
-#EXTINF:-1,PPV - CINEMA 15 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7995
-#EXTINF:-1,PPV - CINEMA 16 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7994
-#EXTINF:-1,PPV - CINEMA 17 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7993
-#EXTINF:-1,PPV - CINEMA 18 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7992
-#EXTINF:-1,PPV - CINEMA 19 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7991
-#EXTINF:-1,PPV - CINEMA 20 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7990
-#EXTINF:-1,PPV - CINEMA 21 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7989
-#EXTINF:-1,PPV - CINEMA 22 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7988
-#EXTINF:-1,PPV - CINEMA 23 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7987
-#EXTINF:-1,PPV - CINEMA 24 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7986
-#EXTINF:-1,PPV - CINEMA 25 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7985
-#EXTINF:-1,PPV - CINEMA 26 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7984
-#EXTINF:-1,PPV - CINEMA 27 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7983
-#EXTINF:-1,PPV - CINEMA 28 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7982
-#EXTINF:-1,PPV - CINEMA 30 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7980
-#EXTINF:-1,PPV - CINEMA 31 FHD (ES).
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/7979
-#EXTINF:-1,24/7 EL CHAVO DEL OCHO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/18576
-#EXTINF:-1,24/7 - DRAGON BALL SUPER
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/29406
-#EXTINF:-1,24/7 - FUTURAMA
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/29407
-#EXTINF:-1,24/7 - LOONEY TUNES
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/29409
-#EXTINF:-1,24/7 - LOS SIMPSON HD
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/29412
-#EXTINF:-1,24/7 - MACGYVER
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/44721
-#EXTINF:-1,24/7 - MALCOM
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/44818
-#EXTINF:-1,24/7 - QUE HAY DE NUEVO SCOOBY DOO
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/44723
-#EXTINF:-1,24/7 - CINEMA MARVEL
-http://tv.nousiptv.com:8080/Yonkers400/Marcela100/44728
